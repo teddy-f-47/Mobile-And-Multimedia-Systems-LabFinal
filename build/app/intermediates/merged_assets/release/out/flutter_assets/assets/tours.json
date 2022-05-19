@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Wroclaw Old Town Tour",
+		"description": "This walking tour allows you to get to know the city at its fullest. You can walk in relaxed and easy way with your friendly and knowledgeable local guide in English, who is going to tell you the most important, interesting and intriguing stories about the city of Wroclaw. What's included: Local expert, friendly English-speaking tour guide. Departure: 10:30 AM, we meet at the Wroclaw's Main Market Square - Rynek, in front of Mcdonalds. The guide has a red umbrella. Return: We finish in the oldest part of the city - Cathedral Island, in front of the Cathedral of St. John the Baptist.",
+		"visitPoints": [
+			"Wrocław Town Hall",
+			"Plac Solny Wrocław",
+			"Jaś i Małgosia Wrocław",
+			"Wroclaw University",
+			"Hala Targowa Wrocław",
+			"Cathedral of St. John the Baptist Wrocław"
+		],
+		"id": 1
+	},
+	{
+		"name": "Wrocław Museums Tour",
+		"description": "This tour will bring you to the four major museums in Wrocław, guided by our expert of art and culture. A minibus is available for the tour participants' transportation. A ticket purchased to view the Panorama of the Battle of Racławice entitles its holder to a free admission to the permanent exhibitions in the National Museum in Wrocław, the Ethnographic Museum, and the Four Domes Pavilion, during the 3 months following the date of viewing the Panorama printed on the ticket. If you are lucky, the tour will end at a unique Wrocław attraction: the Multimedia Fountain evening shows, which is a combination of synchronized music, lights, images, and water movement.",
+		"visitPoints": [
+			"Panorama of the Battle of Racławice",
+			"Ethnographic Museum Wrocław",
+			"National Museum in Wrocław",
+			"Pawilon Czterech Kopuł",
+			"Wrocław Multimedia Fountain"
+		],
+		"id": 2
+	},
+	{
+		"name": "Delicious Wrocław Food Tour",
+		"description": "Feast your senses on the delectable bites and cultural sights of Wroclaw during a 3.5-hour culinary walking tour led by a gastronome guide. With a group of fellow food-lovers, pleasure your palate with authentic Polish food in a selection of hand-picked restaurants. Observe the evolution of Polish cuisine as you visit four popular eateries to sample 13-14 types of Polish classics. Listen to illuminating commentary from your knowledgeable guide and gain valuable insight into the rich history of Poland during this enriching cultural experience.",
+		"visitPoints": [
+			"Pierogarnia Rynek 26 Wrocław",
+			"Konspira Wrocław",
+			"Monopol Wrocław Restaurant",
+			"Wrocław Targowa Craft Beer and Food",
+			"AleBrowar Wrocław"
+		],
+		"id": 3
+	}
+]

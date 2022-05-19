@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Concert: Riot City + more",
+		"description": "Canadian heavy metal sensation Riot City will play two concerts in Poland, together with the British band Seven Sisters. At the Wroclaw concert, they will be accompanied by Warsaw's Hellhaim and Silesia's Axe Crazy.",
+		"location": "Klub Liverpool, Swidnicka 37, Wroclaw, Poland",
+		"imageAssets": ["event1.jpg"],
+		"id": 1
+	},
+	{
+		"name": "Concert: Apocalyptica",
+		"description": "The concert scheduled for March 27, 2021 was moved to November 12, 2022. All tickets are valid on the new date. Armed with cellos, the group broke new boundaries between rock, metal and classical music in an unprecedented way.",
+		"location": "Hala Stulecia, Wroclaw, Poland",
+		"imageAssets": ["event2_1.jpg", "event2_2.jpg", "event2_3.jpg"],
+		"id": 2
+	},
+	{
+		"name": "Concert: The Engler Organ",
+		"description": "From March 31, 2022 to June 9, 2022, there is a series of 10 free organ concerts at the St. Elizabeth church. At the beginning we will hear Karol Mossakowski, one of the most talented organists of the young generation.",
+		"location": "St. Elizabeth Church, Wroclaw, Poland",
+		"imageAssets": ["event3.jpg"],
+		"id": 3
+	}
+]
