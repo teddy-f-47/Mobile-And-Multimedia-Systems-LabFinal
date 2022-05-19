@@ -31,7 +31,15 @@ build\app\outputs\bundle\release\app-release.aab
 
 All of the code for developing the app is available in the directory lib/.
 
-Map with route functionality is implemented using Google's APIs: Maps SDK for Android, Geocoding API, Directions API. Rating and review functionality is implemented using Google's Places API; the option for the user to write a review is implemented by launching the browser to open the review writing page on the object's Google Place page. Voice description functionality is implemented by using Android's text-to-speech engine that is made available via the flutter_tts package. Video functionality is implemented by embedding YouTube videos. Data like names, descriptions, placeIds, and videoIds for the modules are provided locally by four json files in the assets folder: events.json, places.json, accommodations.json, tours.json.
+Map with route functionality is implemented using Google's APIs: Maps SDK for Android, Geocoding API, Directions API.
+
+Rating and review functionality is implemented using Google's Places API; the option for the user to write a review is implemented by launching the browser to open the review writing page on the object's Google Place page.
+
+Voice description functionality is implemented by using Android's text-to-speech engine that is made available via the flutter_tts package.
+
+Video functionality is implemented by embedding YouTube videos. If a Place has more than one video, "Prev" and "Next" buttons are available to navigate between these videos.
+
+Data like names, descriptions, placeIds, and videoIds for the modules are provided locally by four json files in the assets folder: events.json, places.json, accommodations.json, tours.json.
 
 ## Dependencies
 
