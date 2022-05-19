@@ -2,6 +2,8 @@
 
 This repository contains the work for Final Project for Laboratorium of Mobile and Multimedia Systems. The application is developed with ***Flutter***.
 
+This application is developed by following the "City guide v1" requirements, as it has been submitted before the deadline for v1 on 29-May-2022 23:59:59.
+
 ## The built Android app
 
 The APK file built for Android is available at:
