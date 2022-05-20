@@ -1,6 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-pl/edu/pwr/lab4/i268893/city_guide/BuildConfig.java
- pl.edu.pwr.lab4.i268893.city_guide.BuildConfig
-pl/edu/pwr/lab4/i268893/city_guide/MainActivity.java
- pl.edu.pwr.lab4.i268893.city_guide.MainActivity
