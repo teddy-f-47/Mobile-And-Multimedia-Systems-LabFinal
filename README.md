@@ -6,13 +6,7 @@ This application is developed by following the "City guide v1" requirements, as 
 
 ## The built Android app
 
-The APK file built for Android is available at:
-
-build\app\outputs\flutter-apk\app-release.apk
-
-The Appbundle file for Android is available at:
-
-build\app\outputs\bundle\release\app-release.aab
+APK File (21.0 MB) : https://drive.google.com/file/d/1_By2ZwrSL9TNF0zpX1O8IcklrFPqLZH-/view?usp=sharing
 
 ## Screenshots
 
