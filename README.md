@@ -4,10 +4,6 @@ This repository contains the work for Final Project for Laboratorium of Mobile a
 
 This application is developed by following the "City guide v1" requirements, as it is submitted before the deadline for v1 on 19-May-2022 23:59:59.
 
-## The built Android app
-
-APK File (49.4 MB) : https://drive.google.com/file/d/1OMWVJRj0IX_KJhpXejdaIaKd-5n8yMDf/view?usp=sharing
-
 ## Screenshots
 
 ![Alt text](/dev_screenshots/1.PNG?raw=true "Main Page")
