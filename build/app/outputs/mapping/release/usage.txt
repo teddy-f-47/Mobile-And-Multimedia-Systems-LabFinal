@@ -2795,8 +2795,8 @@ com.google.android.gms.common.stats.LoggingConstants
 androidx.core.telephony.TelephonyManagerCompat$Api23Impl
 kotlinx.coroutines.flow.FlowKt__DistinctKt$defaultKeySelector$1
 com.google.android.gms.common.api.Batch
-kotlinx.coroutines.flow.SharedFlowImpl$WhenMappings
 kotlinx.coroutines.AwaitAll$AwaitAllNode
+kotlinx.coroutines.flow.SharedFlowImpl$WhenMappings
 kotlinx.coroutines.flow.FlowKt__TransformKt$mapNotNull$$inlined$unsafeTransform$1$1
 kotlinx.coroutines.flow.FlowKt__ZipKt$combineUnsafe$1$1
 androidx.loader.R$styleable
@@ -6358,9 +6358,9 @@ kotlin.sequences.GeneratorSequence
 kotlin.sequences.SequencesKt__SequenceBuilderKt$sequence$$inlined$Sequence$1
 androidx.customview.widget.ExploreByTouchHelper
 androidx.annotation.CheckResult
-io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
-    private static final java.lang.String TAG
 io.flutter.embedding.engine.systemchannels.PlatformChannel:
+    private static final java.lang.String TAG
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
     private static final java.lang.String TAG
 kotlinx.coroutines.flow.FlowKt__ReduceKt$single$$inlined$collect$1
 androidx.browser.customtabs.PostMessageService
@@ -16530,6 +16530,6 @@ androidx.appcompat.view.menu.BaseMenuPresenter:
     private int mId
 androidx.appcompat.view.StandaloneActionMode:
     private boolean mFocusable
+io.flutter.plugin.common.BinaryMessenger$-CC
 androidx.lifecycle.DefaultLifecycleObserver$-CC:
     public static void $default$onResume(androidx.lifecycle.DefaultLifecycleObserver,androidx.lifecycle.LifecycleOwner)
-io.flutter.plugin.common.BinaryMessenger$-CC
