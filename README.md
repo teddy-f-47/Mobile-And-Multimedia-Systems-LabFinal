@@ -4,6 +4,12 @@ This repository contains the work for Final Project for Laboratorium of Mobile a
 
 This application is developed by following the "City guide v1" requirements, as it is submitted before the deadline for v1 on 19-May-2022 23:59:59.
 
+## Built Android App
+
+The release version of the APK file is available here (22.7 MB):
+
+https://drive.google.com/file/d/1ON-mPBTT1TX2VoaZhgdLz9uQjb0EGlG5/view?usp=sharing
+
 ## Screenshots
 
 ![Alt text](/dev_screenshots/1.PNG?raw=true "Main Page")
@@ -21,17 +27,23 @@ This application is developed by following the "City guide v1" requirements, as 
 
 ## The code
 
-All of the code for developing the app is available in the directory lib/.
+All of the code for developing the app is available in the directory ```lib/```. The only thing not included is the secret key for Google's APIs. The secret key should be put in ```android\app\src\main\AndroidManifest.xml```, inside the meta-data for ```com.google.android.geo.API_KEY``` (in this repository, the AndroidManifest.xml file contains an outdated, invalid key as a placeholder). The secret key should also be put in lib/auth/secrets.dart, which should look like this:
+
+```
+class Secrets {
+  static const String gMapSdkApiKey = "your-key-here";
+}
+```
 
 Map with route functionality is implemented using Google's APIs: Maps SDK for Android, Geocoding API, Directions API.
 
 Rating and review functionality is implemented using Google's Places API; the option for the user to write a review is implemented by launching the browser to open the review writing page on the object's Google Place page.
 
-Voice description functionality is implemented by using Android's text-to-speech engine that is made available via the flutter_tts package.
+Voice description functionality is implemented by using Android's text-to-speech engine that is made available via the ```flutter_tts``` package.
 
 Video functionality is implemented by embedding YouTube videos. If a Place has more than one video, "Prev" and "Next" buttons are available to navigate between these videos.
 
-Data like names, descriptions, placeIds, and videoIds for the modules are provided locally by four json files in the assets folder: events.json, places.json, accommodations.json, tours.json.
+Data like names, descriptions, placeIds, and videoIds for the modules are provided locally by four json files in the assets folder: ```events.json```, ```places.json```, ```accommodations.json```, ```tours.json```.
 
 ## Dependencies
 
