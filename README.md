@@ -6,7 +6,7 @@ This application is developed by following the "City guide v1" requirements, as 
 
 ## The built Android app
 
-APK File (23.7 MB) : https://drive.google.com/file/d/1KDLli1Ka6Spfe1pTjM2qaXLRcgPQW_WJ/view?usp=sharing
+APK File (49.4 MB) : https://drive.google.com/file/d/1OMWVJRj0IX_KJhpXejdaIaKd-5n8yMDf/view?usp=sharing
 
 ## Screenshots
 
