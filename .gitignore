@@ -30,7 +30,7 @@ lib/auth/
 .packages
 .pub-cache/
 .pub/
-
+build/app/intermediates/
 
 # Web related
 lib/generated_plugin_registrant.dart
